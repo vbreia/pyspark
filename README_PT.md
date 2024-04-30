@@ -17,8 +17,8 @@ Instale todas as dependencias via `pip`:
 
 ## Conteúdo do Repositório
 
-- [Primeiro Contato](./pyspark_proj/01.first_contact.ipynb)
-- Aguarde atualizações
+- [Primeiro Contato](./pyspark_proj/01.first_contact.ipynb) - notebook trazendo o primeiro contato com o PySpark
+- [Dataframe Api](./pyspark_proj/02.dataframe_api.ipynb) - notebook analizado dados de um arquivo csv
 
 ## Contribuição
 
