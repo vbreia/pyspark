@@ -17,7 +17,7 @@ Instale todas as dependencias via `pip`:
 
 ## Conteúdo do Repositório
 
-- [Primeiro Contato](./pyspark_proj/01.first_contact.ipynbd)
+- [Primeiro Contato](./pyspark_proj/01.first_contact.ipynb)
 - Aguarde atualizações
 
 ## Contribuição

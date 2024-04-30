@@ -17,7 +17,7 @@ Install all dependencies via `pip`:
 
 ## Repository Content
 
-- [First contact](./pyspark_proj/01.first_contact.ipynbd)
+- [First contact](./pyspark_proj/01.first_contact.ipynb)
 - Wait for updates
 
 ## Contribution
