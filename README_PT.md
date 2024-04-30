@@ -8,7 +8,7 @@ Divirta-se explorando o mundo do processamento de dados em larga escala com o Py
 
 ## Instalando o PySpark
 
-É necessário ter o Java instalado. Caso tenha alguma dificuldade, siga esse rápido tutorial: [Prepare o Ambiente Java](./docs/config_ambient.md)
+É necessário ter o Java instalado. Caso tenha alguma dificuldade, siga esse rápido tutorial: [Prepare o Ambiente Java ☕](./docs/config_ambient.md)
 
 Instale todas as dependencias via `pip`:
 ```
