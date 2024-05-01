@@ -17,6 +17,9 @@ Install all dependencies via `pip`:
 
 ## Repository Content
 
+> `info`
+> All the first examples use the **PySpark.SQL** module
+
 - [First contact](./pyspark_proj/01.first_contact.ipynb) - notebook with the first contact using pyspark
 - [Dataframe Api](./pyspark_proj/02.dataframe_api.ipynb) - notebook analyzing data from a csv file
 
