@@ -22,6 +22,7 @@ Install all dependencies via `pip`:
 
 - [First contact](./pyspark_proj/01.first_contact.ipynb) - notebook with the first contact using pyspark
 - [Dataframe Api](./pyspark_proj/02.dataframe_api.ipynb) - notebook analyzing data from a csv file
+- [Spark SQL](./pyspark_proj/03.spark_sql.ipynb) - notebook analyzed data from a csv file via SQL queries
 
 ## Contribution
 

@@ -21,7 +21,8 @@ Instale todas as dependencias via `pip`:
 > Todos os primeiros exemplos utilizam o módulo **PySpark.SQL** 
 
 - [Primeiro Contato](./pyspark_proj/01.first_contact.ipynb) - notebook trazendo o primeiro contato com o PySpark
-- [Dataframe Api](./pyspark_proj/02.dataframe_api.ipynb) - notebook analizado dados de um arquivo csv
+- [Dataframe Api](./pyspark_proj/02.dataframe_api.ipynb) - notebook analizado dados de um arquivo csv via API
+- [Spark SQL](./pyspark_proj/03.spark_sql.ipynb) - notebook analizado dados de um arquivo csv via queries SQL
 
 ## Contribuição
 
