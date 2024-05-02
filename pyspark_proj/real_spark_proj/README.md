@@ -32,7 +32,7 @@ If you want to follow the step-by-step process of creating the data, I will expl
 
 - [`docker-compose.yml`](docker-compose.yml)-file for configuring Docker containers
 - [`/SQL`](/sql) - directory contains SQL scripts for manipulating the fake sales data in the bookstore project.
-- [`popular-tabelas.py`](popular-tabelas.py) - script for populating tables in the bookstore project.
+- [`popular_tabelas.py`](popular_tabelas.py) - script for populating tables in the bookstore project.
 - [`data_extract.py`](data_extract.py) -script to extract sql data, convert to csv to create the datalake
 
 ### Running the scripts
