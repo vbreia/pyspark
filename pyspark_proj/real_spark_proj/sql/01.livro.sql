@@ -1,0 +1,9 @@
+USE `test`;
+
+CREATE TABLE IF NOT EXISTS livro (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    categoria VARCHAR(100) NOT NULL,
+    descricao TEXT NOT NULL,
+    valor NUMERIC(10,2) NOT NULL
+);
