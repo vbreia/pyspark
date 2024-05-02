@@ -1,4 +1,4 @@
-# Manipulando dados de vendas falsos de uma livraria 📚
+# Manipulando dados "fake" de vendas de uma livraria 📚
 
 Neste repositório faremos um exercício um pouco mais complexo.
 Criaremos um datalake falso de uma livraria.
