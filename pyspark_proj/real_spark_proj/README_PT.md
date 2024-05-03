@@ -31,7 +31,7 @@ Se você quiser seguir o passo a passo de criação dos dados, explicarei aqui.
 ### Conteúdo
 
 - [`docker-compose.yml`](docker-compose.yml)-arquivo para configurar contêineres Docker
-- [`/SQL`](/sql) - diretório contém scripts SQL para manipular os dados de vendas falsos no projeto da livraria.
+- [`/SQL`](./sql) - diretório contém scripts SQL para manipular os dados de vendas falsos no projeto da livraria.
 - [`popular_tabelas.py`](popular_tabelas.py) - script para preenchimento de tabelas no projeto livraria.
 - [`data_extract.py`](data_extract.py) -script para extrair dados sql, converter para csv para criar o datalake
 
