@@ -15,7 +15,7 @@ Instale todas as dependencias via `pip`:
  pip install requeriments.txt
  ```
 
-## Conteúdo do Repositório
+## /pyspark_proj
 
 > `info`
 > Todos os primeiros exemplos utilizam o módulo **PySpark.SQL** 
@@ -24,6 +24,13 @@ Instale todas as dependencias via `pip`:
 - [Dataframe Api](./pyspark_proj/02.dataframe_api.ipynb) - notebook analizado dados de um arquivo csv via API
 - [Spark SQL](./pyspark_proj/03.spark_sql.ipynb) - notebook analizado dados de um arquivo csv via queries SQL
 - [Projeto Análise de vendas - Livraria fake](./pyspark_proj/real_spark_proj) - repositório com analise de dados de vendas de uma livraria fake
+
+## /Faculdade
+> `info`
+> [Saiba mais sobre o repositório](/faculdade/README.MD)
+
+- [aula_1](./Faculdade/01.aula_1.ipynb) - notebook com a primeira aula de PySpark
+
 ## Contribuição
 
 Se você tiver alguma sugestão, correção ou adição, sinta-se à vontade para contribuir para este repositório. Basta abrir uma issue ou enviar um pull request.
