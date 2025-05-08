@@ -1,2 +1,6 @@
 pyspark
 ipykernel
+pandas
+numpy
+setuptools
+wheel
